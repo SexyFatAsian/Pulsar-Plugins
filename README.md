@@ -45,3 +45,7 @@ To update the Poopsar submodule to the latest upstream changes:
 ```bash
 git submodule update --remote --merge
 ```
+
+### Plugin documentation
+
+Plugin documentation can be found in: [Docs](/Docs/README.MD)
